@@ -1,0 +1,15 @@
+the cat sat down quietly <end>
+a dog ran very fast <end>
+birds fly high above trees <end>
+fish swim deep in water <end>
+sun shines bright every morning <end>
+moon glows soft at night <end>
+rain falls hard on ground <end>
+wind blows cold through air <end>
+trees grow tall and strong <end>
+flowers bloom red and white <end>
+children play outside all day <end>
+books teach us new things <end>
+time moves fast never stops <end>
+love makes life worth living <end>
+hope keeps hearts beating strong <end>
